@@ -1,0 +1,5 @@
+# python==3.8.*
+jupyter
+numpy==1.22.*
+matplotlib==3.5.*
+scipy==1.8.*

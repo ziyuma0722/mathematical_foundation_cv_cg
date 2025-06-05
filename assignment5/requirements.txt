@@ -1,0 +1,5 @@
+# python==3.8.*
+numpy==1.22.*
+matplotlib==3.5.*
+py-opencv==4.6.*
+

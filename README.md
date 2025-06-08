@@ -1,5 +1,7 @@
 # mathematical_foundation_cv_cg
 
+Assignments done during the course 252-5706-00L Mathematical Foundations of Computer Graphics and Vision at ETH Zurich
+
 ### assignment 1: Robust Estimation and Optimization
 keywords: RANSAC, Iteratively Reweighted Least Squares (IRLS), Linear Programming
 
